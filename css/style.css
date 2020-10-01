@@ -1,0 +1,272 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: tahoma;
+}
+
+.main{
+	width: 100%;
+	height: 120vh;
+}
+
+.header{
+	width: 100%;
+	height: 24vh;
+	background-color: #405E9B;
+	border-bottom: 1px solid black;
+
+}
+
+.right h1{
+	position: absolute;
+	margin: 40px;
+	color: white;
+	left: 80px;
+	font-size: 45px; 
+
+	
+}
+
+
+.left{
+    position: absolute;
+	margin: 10px;
+	color: white;
+	left: 560px;		
+}
+
+
+.items {
+	display: block;
+	padding-bottom: 8px;
+	
+		
+}
+
+.items label{
+	display: block;
+	color: white;
+	font-size: 15px;
+	margin-bottom: 5px;
+	
+
+}
+
+.items button{
+	background-color: #4267B2;
+	color: white;
+	border: 1px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 4px;
+	margin: 5px;
+	border-radius: 10%;
+	box-shadow: 0px 0px 3px black;
+	cursor: pointer;
+}
+
+.items  a{
+	color: #9CB4D8;
+	text-decoration: none;
+	font-size: 15px;
+
+
+}
+
+.items a:hover{
+	text-decoration: underline;
+
+}
+.items input{
+	line-height: 20px;
+	width: 200px;
+	padding-left: 5px;
+	outline: none;
+}
+
+.lower{
+	width: 100%;
+	height: 90vh;
+	background-color: #EBEEF5;
+}
+
+.contain img{
+	margin-left: 60px;
+	margin-top: 120px;
+	height: 45vh;
+	width: 480px;
+
+}
+
+.contain p{
+	position: absolute;
+	left: 25px;
+	margin: 50px;
+	color: #0e385f;
+	font-size: 20px;
+	font-weight: bold;
+	
+}
+
+.other{
+	position: absolute;	
+	left: 500px;
+	top: 170px;
+
+}
+
+.other h1{
+	font-size: 38px;
+	font-weight: bold;
+}
+
+.other p{
+	font-size: 18px;
+	color: #1D2129;
+     
+}
+
+.input-1{
+	position: absolute;	
+	left: 500px;
+	top: 270px;
+	
+}
+
+.input-1 input{
+	line-height: 40px;
+	width: 157px;
+	border-radius: 5px;
+	border-style: none;
+	box-shadow: 0px 0px 2px black;
+	font-size: 18px;
+	margin: 8px 0;
+    padding-left: 5px;
+	outline: none;
+   
+
+}
+
+.input-1 .op{
+	margin-left: 3px ;
+}
+
+.input-2{
+	position: absolute;	
+	left: 500px;
+	top: 320px;
+	
+}
+
+.input-2 input{
+	line-height: 40px;
+	width: 327px;
+	border-style: none;
+	border-radius: 5px;
+	box-shadow: 0px 0px 2px black;
+	font-size: 18px;
+	margin: 5px 0;
+	padding-left: 5px;
+	outline: none;
+    outline: none;
+	
+}
+
+
+
+.input-3{
+	position: absolute;	
+	left: 500px;
+	top: 365px;
+	
+}
+
+.input-3 input{
+	line-height: 40px;
+	width: 327px;
+	border-style: none;
+	border-radius: 5px;
+	box-shadow: 0px 0px 2px black;
+	font-size: 18px;
+    margin: 8px 0;
+    padding-left: 5px;
+	outline: none;
+}
+
+.bd{
+	position: absolute;	
+	left: 500px;
+	top: 430px;
+	font-size: 20px;
+	color: #1D2129;
+}
+
+.bd select{
+	width: 70px;
+	height: 30px;
+	color: black;
+	border-style: none;
+	box-shadow: 0px 0px 1px black;
+	margin-top: 8px;
+}
+
+ 
+
+.bd a{
+	font-size: 14px;
+	text-decoration: none;
+	color: #365899;
+	font-weight: bold;
+	
+}
+
+.bd a:hover{
+	text-decoration: underline;
+}
+
+.lop{
+	position: absolute;	
+	left: 500px;
+	top: 530px;
+	
+
+}
+
+.lop label{
+	font-size: 20px;
+	color: #1D2129;
+
+}
+
+.lop input{
+	color: black;
+	margin-top: 8px;
+	margin: 5px ;
+}
+
+.lop p{
+	margin-top: 10px;
+	color: #9197B3;
+	font-size: 15px;
+}
+
+.lop a{
+	text-decoration: none;
+	color: blue;
+}
+
+.lop a:hover{
+	text-decoration: underline;
+}
+
+.lop button{
+	margin-top: 20px;
+	width: 150px;
+    height: 35px;
+    background-color: #5D9749;
+    color: #fff;
+    border-radius: 5px;
+    border-style: none;
+   
+}
+
